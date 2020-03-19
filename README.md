@@ -16,6 +16,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Agregador de projetos desenvolvidos no Spark AR, ferramenta de realidade aumentada do Facebook.
 
+## :art: Publicação
+
+Os efeitos podem ser encontrados no meu [Instagram](https://www.instagram.com/gustavodureg/) @gustavodureg
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
