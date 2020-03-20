@@ -4,6 +4,9 @@
      
 ## 🦠 E1-Efeito corona-nao-saia     
   <img src="https://github.com/GustavoDuregger/Spark_AR/blob/master/E1/textures/ezgif.com-video-to-gif.gif" width="200px">
+  
+## :eyeglasses: E2-Efeito cyberpunk     
+  <img src="https://github.com/GustavoDuregger/Spark_AR/blob/master/E2/cyberpunk/textures/gif.gif" width="200px">
      
 ## :sparkles: Tecnologias
 
@@ -15,6 +18,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Agregador de projetos desenvolvidos no Spark AR, ferramenta de realidade aumentada do Facebook.
+
+## 🔬 Quer contribuir?
+Crie um fork do repositório, insira seu efeito numa pasta seguindo o padrão de nomeação (exemplo: E3), modifique este readme inserindo o nome do projeto com um gif ou imagem demonstrando visualmente como ele é, coloque o link do Instagram ou Facebook onde ele pode ser encontrado e enfim, dê um pull request.
+Se você não sabe criar efeitos você pode contribuir sugerindo novos efeitos criando uma nova Inssue.
 
 ## :art: Publicação
 
