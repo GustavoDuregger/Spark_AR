@@ -19,10 +19,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Agregador de projetos desenvolvidos no Spark AR, ferramenta de realidade aumentada do Facebook.
 
-## 🔬 Quer contribuir?
-Crie um fork do repositório, insira seu efeito numa pasta seguindo o padrão de nomeação (exemplo: E3), modifique este readme inserindo o nome do projeto com um gif ou imagem demonstrando visualmente como ele é, coloque o link do Instagram ou Facebook onde ele pode ser encontrado e enfim, dê um pull request.
-Se você não sabe criar efeitos você pode contribuir sugerindo novos efeitos criando uma nova Inssue.
-
 ## :art: Publicação
 
 Os efeitos podem ser encontrados no meu [Instagram](https://www.instagram.com/gustavodureg/) @gustavodureg
